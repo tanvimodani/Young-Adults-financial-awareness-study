@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="6B1BBB88-9958-4E57-A7D6-F199578AC0D2.png” alt="Financial Research Banner" width="100%">
+</p>
 # A Study on the Influence of Digital Creators & Finfluencers on Financial Awareness and Investment Behaviour of Young Adults
 
 ## Overview
