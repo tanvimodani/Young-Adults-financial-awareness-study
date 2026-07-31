@@ -1,7 +1,7 @@
 <p align="center">
   <img src="272BB7E8-8875-441B-8C1C-AC1CE2F8D00E.png" alt="Financial Research Project Banner" width="100%">
 </p>
-# A Study on the Influence of Digital Creators & Finfluencers on Financial Awareness and Investment Behaviour of Young Adults
+A Study on the Influence of Digital Creators & Finfluencers on Financial Awareness and Investment Behaviour of Young Adults
 
 ## Overview
 This B.Com dissertation examines the influence of digital creators and finfluencers on the financial awareness and investment behaviour of young adults. The study explores how social media platforms contribute to financial literacy and investment decision-making.
